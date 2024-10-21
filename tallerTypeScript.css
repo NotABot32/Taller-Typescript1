@@ -1,0 +1,39 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+table {
+    width: 60%;
+    margin-top: 40px;
+    border-collapse: collapse;
+}
+
+table {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+tr:nth-child(even) {
+    background-color: #e6e6e6e6;
+}
+
+tr:hover {
+    background-color: #ddd;
+}
+
+
+header {
+    margin: 0;
+    background-color: #B1D0E2;
+    padding: 10px;
+    text-align: center;
+}
